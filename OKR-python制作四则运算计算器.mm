@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1628903815987" ID="ID_1434924956" MODIFIED="1628921214750" STYLE="fork">
+<node CREATED="1628903815987" ID="ID_1434924956" MODIFIED="1629031284295" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -31,7 +31,7 @@
 </node>
 <node CREATED="1628904851777" ID="ID_875099123" MODIFIED="1628907811910" TEXT="Action2-2: &#x83b7;&#x53d6;&#x8fd0;&#x7b97;&#x7b26;">
 <icon BUILTIN="button_ok"/>
-<node CREATED="1628905491035" ID="ID_1971089161" MODIFIED="1628907806574" TEXT="&#x68c0;&#x67e5;&#x6709;&#x6548;&#x6027;(+,-,*,/)">
+<node CREATED="1628905491035" ID="ID_1971089161" MODIFIED="1629030472604" TEXT="&#x68c0;&#x67e5;&#x6709;&#x6548;&#x6027;(+,-,*,/,^)">
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
@@ -67,6 +67,13 @@
 </node>
 </node>
 <node CREATED="1628904851777" ID="ID_732174309" MODIFIED="1628921193482" TEXT="Action3-2: &#x8f93;&#x51fa;&#x8fd0;&#x7b97;&#x7ed3;&#x679c;">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1629031273330" ID="ID_1691281137" MODIFIED="1629031525884" POSITION="right" TEXT="KR4:&#x91cd;&#x590d;&#x8fd0;&#x884c;&#x8ba1;&#x7b97;&#x5668;">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1628904851777" ID="ID_1669404895" MODIFIED="1629031523144" TEXT="Action4-1: &#x5b8c;&#x6210;&#x8fd0;&#x7b97;&#x540e;&#x91cd;&#x65b0;&#x6267;&#x884c;">
+<font NAME="SansSerif" SIZE="12"/>
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
